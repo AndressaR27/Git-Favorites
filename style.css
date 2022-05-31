@@ -149,4 +149,5 @@ tbody tr:last-child > td:first-child{
     background: transparent;
     border: none;
     color: #F75A68;
+    cursor: pointer;
 }
